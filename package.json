@@ -1,0 +1,19 @@
+{
+  "name": "npm-text",
+  "version": "1.0.0",
+  "description": "this is a 2nd npm package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/pro-masud/npm-2nd-package.git"
+  },
+  "keywords": [
+    "2nd",
+    "2nd"
+  ],
+  "author": "masud rana",
+  "license": "ISC"
+}
